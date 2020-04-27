@@ -26,12 +26,15 @@ Objectives:
 1. After filtering for birth date and hire date we have 41380 number of employees who are eligible for retirement.
 
 2. After using GROUPBY the number of employees retiring for each title are as below:
+
 ![](Output/output_challenge/emp_count_by_latest_title.png)
 
 3. After using JOIN and filtering for employees eligible for mentorship were 1940. The first few rows of the table showing details for the eligible employees are shown below:
+
 ![](Output/output_challenge/mentorship_eligibility.png)
 
 4. The ERD showing the relationship of the data tables:
+
 ![](EmployeeBD.png)
 
 #### Recommendations:
