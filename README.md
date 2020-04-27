@@ -25,14 +25,14 @@ Objectives:
 
 1. After filtering for birth date and hire date we have 41380 number of employees who are eligible for retirement.
 
-2. After using GROUPBY the number of employees retiring title wise are as below:
-![]()
+2. After using GROUPBY the number of employees retiring for each title are as below:
+![](Output/output_challenge/emp_count_by_latest_title.png)
 
 3. After using JOIN and filtering for employees eligible for mentorship were 1940. The first few rows of the table showing details for the eligible employees are shown below:
-![]()
+![](Output/output_challenge/mentorship_eligibility.png)
 
 4. The ERD showing the relationship of the data tables:
-![]()
+![](EmployeeBD.png)
 
 #### Recommendations:
 - Formulate department-wise projections on employees required in the furture (when current employees start retiring) depending on the projects/workload handled in each department at Pewlett-Hackard. This will help us recruit number of employeess based on workload rather than based on number of retiring employees.
